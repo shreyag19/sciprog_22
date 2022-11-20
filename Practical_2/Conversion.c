@@ -1,4 +1,4 @@
-[200~#include <stdio.h>
+#include <stdio.h>
 #include <math.h>
 
 int main(void) {
@@ -24,7 +24,7 @@ int main(void) {
 
 /* Terminate the string */
    binnum[i] = '\0';
-       
+
 
 /* Complete the expression */
  numdigits = ceil(logf(fnum)/logf(2));
