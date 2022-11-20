@@ -1,0 +1,68 @@
+commit b66eb9f3a069bf10430e5d9d364e661deeebd82e
+Author: shreyag19 <shreyagrover1901@gmail.com>
+Date:   Sun Nov 20 20:31:35 2022 +0000
+
+    Added README file for Week 3
+
+commit 1aaa40f8768e98f3efe1d73e4d499519c544c862
+Author: shreyag19 <shreyagrover1901@gmail.com>
+Date:   Sun Nov 20 20:27:04 2022 +0000
+
+    Week 3 Practicals
+
+commit 86ff9619ea597a5fa59b9aa2de5615796c69785f
+Author: shreyag19 <shreyagrover1901@gmail.com>
+Date:   Sun Nov 20 20:20:24 2022 +0000
+
+    Log file for week 2
+
+commit 7cb3c734597186a2bf09eb0a824a0996b53ddfcc
+Author: shreyag19 <shreyagrover1901@gmail.com>
+Date:   Sun Nov 20 20:17:27 2022 +0000
+
+    Updated Readme file for week 2
+
+commit e0608afbeabbf6d6127f7a706a49d6c90dbeb1bd
+Author: shreyag19 <shreyagrover1901@gmail.com>
+Date:   Sun Nov 20 20:13:18 2022 +0000
+
+    Week 2 Practicals
+
+commit 4d4223473f6d11bbb313bb1e5b24bb641dfb06ff
+Author: shreyag19 <shreyagrover1901@gmail.com>
+Date:   Sun Nov 20 19:46:45 2022 +0000
+
+    Updated README
+
+commit dc2584c935ed4720ef7c8786482c4ddd63f88504
+Author: Buket Benek Gursoy <buket.gursoy@ichec.ie>
+Date:   Sat Sep 24 00:14:00 2022 +0100
+
+    Update README.md
+
+commit e811d2284ca3ffb2924bab959a842bb3806b35e0
+Merge: 6a5ffb7 d2c301d
+Author: Buket Benek Gursoy <buket.gursoy@ichec.ie>
+Date:   Sat Sep 24 00:13:37 2022 +0100
+
+    Merge pull request #1 from buketbenek/Buket_BenekGursoy
+    
+    Update README file
+
+commit d2c301dad05f0c7ff203d4b28e1d8be3ade3c99c
+Author: Buket Benek Gursoy <buket.gursoy@ichec.ie>
+Date:   Sat Sep 24 00:11:21 2022 +0100
+
+    Update README file
+
+commit 6a5ffb76f12846d1b0c8cc5d62cf0716a4fda823
+Author: Buket Benek Gursoy <buket.gursoy@ichec.ie>
+Date:   Mon Aug 8 15:18:16 2022 +0100
+
+    Update README.md
+
+commit db2e6a8406e8f069576574b3bcdbe338a5827664
+Author: Buket Benek Gursoy <buket.gursoy@ichec.ie>
+Date:   Mon Aug 8 15:17:45 2022 +0100
+
+    Initial commit
