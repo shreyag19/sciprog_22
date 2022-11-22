@@ -1,0 +1,1 @@
+The file tower.c contains code for solving a tower of hanoi problem for 6 discs. The file tower.c returns to main.c, where the function initialised in tower.c is called in main.c.
