@@ -1,0 +1,195 @@
+commit d1b48c7a33339d10c918c2f5f96629ded6d828e5
+Author: shreyag19 <shreyagrover1901@gmail.com>
+Date:   Tue Nov 22 01:06:41 2022 +0000
+
+    Week 8 Practicals
+
+commit 904c322e4a7e9fd5f451f3ab24387ce4f53bcfa2
+Author: shreyag19 <shreyagrover1901@gmail.com>
+Date:   Mon Nov 21 23:05:38 2022 +0000
+
+    Log file for Week7
+
+commit e7efcac6fad697c8cb00068a6afd262289d24f1d
+Author: shreyag19 <shreyagrover1901@gmail.com>
+Date:   Mon Nov 21 23:04:14 2022 +0000
+
+    README file for Week 7
+
+commit 6e2a5865f34782ce3d28efdaf25d86c9031919c3
+Author: shreyag19 <shreyagrover1901@gmail.com>
+Date:   Mon Nov 21 23:01:27 2022 +0000
+
+    Taylor file for week 7
+
+commit a6a1c5e60d61b83b41a41800e944424f962afecb
+Author: shreyag19 <shreyagrover1901@gmail.com>
+Date:   Mon Nov 21 22:58:54 2022 +0000
+
+    Dynamic allocation file
+
+commit 2680480736c8fd7662f22f5e3f1a4283efde5fe6
+Author: shreyag19 <shreyagrover1901@gmail.com>
+Date:   Mon Nov 21 22:24:21 2022 +0000
+
+    Log file for Week6
+
+commit 2dcc84f5e88c46fc1f6a2b5c28c95b69ddb562ae
+Author: shreyag19 <shreyagrover1901@gmail.com>
+Date:   Mon Nov 21 22:23:23 2022 +0000
+
+    README file for Week 6
+
+commit cba502b1e4ff9878bd9e505a7ccab7d75e6399b1
+Author: shreyag19 <shreyagrover1901@gmail.com>
+Date:   Mon Nov 21 22:21:07 2022 +0000
+
+    Multiplication of matrix
+
+commit 305b791ae89975fd79d62572c22a3a22950d27bd
+Author: shreyag19 <shreyagrover1901@gmail.com>
+Date:   Mon Nov 21 22:20:30 2022 +0000
+
+    Printing matrix using multimat.c file
+
+commit 11f2950aa0e05c942954b7d851af82242bd6d78a
+Author: shreyag19 <shreyagrover1901@gmail.com>
+Date:   Mon Nov 21 21:50:44 2022 +0000
+
+    Updating Log file
+
+commit 390c55245081ba1f8924459674b616c160c5b6e1
+Author: shreyag19 <shreyagrover1901@gmail.com>
+Date:   Mon Nov 21 21:48:58 2022 +0000
+
+    README file for Week 5
+
+commit d3fd99248da1d425ba6d63b39a8a13c59f9f7de9
+Author: shreyag19 <shreyagrover1901@gmail.com>
+Date:   Mon Nov 21 21:46:59 2022 +0000
+
+    Arc tan code for Week 5
+
+commit 8308ea8591ee324bc07def64cd8d4ec38a3e555c
+Author: shreyag19 <shreyagrover1901@gmail.com>
+Date:   Mon Nov 21 21:46:09 2022 +0000
+
+    Fibonacci code for Week 5
+
+commit e9031a29aedc385a6ae07bab4e80e3f1b380ff4d
+Author: shreyag19 <shreyagrover1901@gmail.com>
+Date:   Sun Nov 20 21:29:15 2022 +0000
+
+    Log file for Week 4
+
+commit 892baa7bb714278e39e097cfbe7b4666c8a58c55
+Author: shreyag19 <shreyagrover1901@gmail.com>
+Date:   Sun Nov 20 21:28:17 2022 +0000
+
+    Adding README file for Week 4
+
+commit fcb8c1055c26809a165138cb8244a19e1be1f677
+Author: shreyag19 <shreyagrover1901@gmail.com>
+Date:   Sun Nov 20 21:26:13 2022 +0000
+
+    Updating Conversion code
+
+commit b935175706303efa714a8ca61fe4a7744393306c
+Merge: dae1f21 9bbd6fd
+Author: shreyag19 <shreyagrover1901@gmail.com>
+Date:   Sun Nov 20 21:22:50 2022 +0000
+
+    Resolving errors
+
+commit dae1f210bed4947a8cfff62ec5d15c96467a359a
+Author: shreyag19 <shreyagrover1901@gmail.com>
+Date:   Sun Nov 20 21:16:16 2022 +0000
+
+    Update for practical
+
+commit 0054de8bede67ff1bcf1548b05b51f4d7139e5ee
+Author: shreyag19 <shreyagrover1901@gmail.com>
+Date:   Sun Nov 20 21:12:53 2022 +0000
+
+    Week 4 Practicals
+
+commit 9bbd6fd240e6e82dea2830b2a893925c213305fe
+Author: Shreya Grover <73053191+shreyag19@users.noreply.github.com>
+Date:   Sun Nov 20 20:48:47 2022 +0000
+
+    Update Conversion.c
+
+commit d5dfe06e99d32167c65dc4c0bbef02fad98a43c1
+Author: shreyag19 <shreyagrover1901@gmail.com>
+Date:   Sun Nov 20 20:33:23 2022 +0000
+
+    Log file for Week 3
+
+commit b66eb9f3a069bf10430e5d9d364e661deeebd82e
+Author: shreyag19 <shreyagrover1901@gmail.com>
+Date:   Sun Nov 20 20:31:35 2022 +0000
+
+    Added README file for Week 3
+
+commit 1aaa40f8768e98f3efe1d73e4d499519c544c862
+Author: shreyag19 <shreyagrover1901@gmail.com>
+Date:   Sun Nov 20 20:27:04 2022 +0000
+
+    Week 3 Practicals
+
+commit 86ff9619ea597a5fa59b9aa2de5615796c69785f
+Author: shreyag19 <shreyagrover1901@gmail.com>
+Date:   Sun Nov 20 20:20:24 2022 +0000
+
+    Log file for week 2
+
+commit 7cb3c734597186a2bf09eb0a824a0996b53ddfcc
+Author: shreyag19 <shreyagrover1901@gmail.com>
+Date:   Sun Nov 20 20:17:27 2022 +0000
+
+    Updated Readme file for week 2
+
+commit e0608afbeabbf6d6127f7a706a49d6c90dbeb1bd
+Author: shreyag19 <shreyagrover1901@gmail.com>
+Date:   Sun Nov 20 20:13:18 2022 +0000
+
+    Week 2 Practicals
+
+commit 4d4223473f6d11bbb313bb1e5b24bb641dfb06ff
+Author: shreyag19 <shreyagrover1901@gmail.com>
+Date:   Sun Nov 20 19:46:45 2022 +0000
+
+    Updated README
+
+commit dc2584c935ed4720ef7c8786482c4ddd63f88504
+Author: Buket Benek Gursoy <buket.gursoy@ichec.ie>
+Date:   Sat Sep 24 00:14:00 2022 +0100
+
+    Update README.md
+
+commit e811d2284ca3ffb2924bab959a842bb3806b35e0
+Merge: 6a5ffb7 d2c301d
+Author: Buket Benek Gursoy <buket.gursoy@ichec.ie>
+Date:   Sat Sep 24 00:13:37 2022 +0100
+
+    Merge pull request #1 from buketbenek/Buket_BenekGursoy
+    
+    Update README file
+
+commit d2c301dad05f0c7ff203d4b28e1d8be3ade3c99c
+Author: Buket Benek Gursoy <buket.gursoy@ichec.ie>
+Date:   Sat Sep 24 00:11:21 2022 +0100
+
+    Update README file
+
+commit 6a5ffb76f12846d1b0c8cc5d62cf0716a4fda823
+Author: Buket Benek Gursoy <buket.gursoy@ichec.ie>
+Date:   Mon Aug 8 15:18:16 2022 +0100
+
+    Update README.md
+
+commit db2e6a8406e8f069576574b3bcdbe338a5827664
+Author: Buket Benek Gursoy <buket.gursoy@ichec.ie>
+Date:   Mon Aug 8 15:17:45 2022 +0100
+
+    Initial commit
