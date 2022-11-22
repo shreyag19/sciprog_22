@@ -1,0 +1,1 @@
+The file Euclid.c helps us find the greatest common divisor of two positive integers using iterative and recursive methods.
